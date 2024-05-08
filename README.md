@@ -1,7 +1,7 @@
 #### Python-MySQL Project: Bridging Python and MySQL 🐍🔍
 
 <p align="center">
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="100" height="100" />
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="150" height="150" />
 </p>
 
 - A simple Python project showcasing the integration with MySQL database.
